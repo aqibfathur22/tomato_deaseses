@@ -1,0 +1,10 @@
+running :
+1. python -m venv venv
+2. .\venv\Scripts\activate
+3  pip install -r requirements.txt
+4. python main.py
+6. mlflow ui --backend-store-uri sqlite:///mlflow.db --port 5001
+5. mlflow ui (mlflow ui --port 5001)
+
+access key id : e67a89001fa1010a7b29b79b65b7652e256a29b5
+secret acces key : c079770647724a8ba74c6f8fba9d24ee50dfc3a3

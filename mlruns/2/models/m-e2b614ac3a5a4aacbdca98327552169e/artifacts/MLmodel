@@ -1,0 +1,23 @@
+artifact_path: file:d:/Amikom/semester 6/proyek data mining/tomato_diseases/mlruns/2/models/m-e2b614ac3a5a4aacbdca98327552169e/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.14.4
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.11.0+cpu
+mlflow_version: 3.11.1
+model_id: m-e2b614ac3a5a4aacbdca98327552169e
+model_size_bytes: 5216127
+model_uuid: m-e2b614ac3a5a4aacbdca98327552169e
+prompts: null
+run_id: f79291f7571f4ffcad6035457ea9ff74
+utc_time_created: '2026-04-27 04:12:29.239264'
